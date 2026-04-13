@@ -1,0 +1,26 @@
+{
+  "env": {
+    "NOTION_TOKEN": "ntn_m685603532950WGP8HKqBsUqpFGS1gYVqZqRGbvKX0Q2j5"
+  },
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "mcp__claude_ai_Notion__notion-search",
+      "mcp__claude_ai_Notion__notion-create-database",
+      "mcp__claude_ai_Notion__notion-create-pages",
+      "WebFetch(domain:trimobe.com)",
+      "Bash(rm \"C:/Users/rsgon/.claude/projects/C--Users-rsgon-Documents-trimobe/memory/project_brand_identity.md\")",
+      "Bash(rm \"C:/Users/rsgon/.claude/projects/C--Users-rsgon-Documents-trimobe/memory/feedback_brand_direction.md\")",
+      "WebFetch(domain:paperclip.ing)",
+      "WebFetch(domain:docs.paperclip.ing)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:www.geeky-gadgets.com)",
+      "WebFetch(domain:flowtivity.ai)",
+      "WebFetch(domain:www.dplooy.com)",
+      "WebFetch(domain:www.mindstudio.ai)",
+      "WebFetch(domain:paperclipai.info)"
+    ]
+  }
+}
